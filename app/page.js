@@ -268,7 +268,6 @@ export default function Home() {
 
         <article className="panel section-card">
           <p className="eyebrow">Certifications</p>
-          <h2>Credentials</h2>
           <div className="cert-grid">
             {certifications.map((item) => (
               <span key={item} className="cert-pill">
