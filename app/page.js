@@ -147,7 +147,7 @@ export default function Home() {
             <a href="mailto:jadhavsagar2081997@gmail.com" className="button secondary">
               Email me
             </a>
-            <a href="/Sagar_Jadhav_Resume.docx" className="button secondary" download>
+            <a href="/Sagar_Jadhav_Resume.pdf" className="button secondary" download>
               Download resume
             </a>
           </div>
